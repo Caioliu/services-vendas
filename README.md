@@ -30,8 +30,8 @@ Documentação Swagger: /vendas/swagger-ui.html
 Spring Boot: Framework utilizado para desenvolvimento dos microsserviços.
 Swagger: Utilizado para visualização e documentação das rotas da API.
 
-🗃️ Banco de Dados
+## 🗃️ Banco de Dados:
 A aplicação está configurada para utilizar o MongoDB como sistema de gerenciamento de banco de dados.
 
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
