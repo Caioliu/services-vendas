@@ -6,24 +6,22 @@ Serviços
 
 ## ⚙️ config-services:
 Serviço responsável por configurar e orquestrar os demais serviços.
+Url: http://localhost:8888/
 
 ## cliente-service:
 Serviço responsável pelo gerenciamento de clientes, incluindo operações de CRUD.
 Responsável pelo gerenciamento de clientes.
-Endpoint base: /clientes
-Documentação Swagger: /clientes/swagger-ui.html
+Url: http://localhost:8081/swagger-ui/index.html#/
 
 ## produto-service:
 Serviço responsável pelo gerenciamento de produtos, incluindo operações de CRUD.
 Responsável pelo gerenciamento de produtos.
-Endpoint base: /produtos
-Documentação Swagger: /produtos/swagger-ui.html
+Url: http://localhost:8082/swagger-ui/index.html#/
 
 ## vendas-service:
 Serviço responsável pelo gerenciamento de vendas, incluindo operações de CRUD, onde as vendas são cadastradas relacionadas com produtos e clientes.
 Responsável pelo gerenciamento de vendas.
-Endpoint base: /vendas
-Documentação Swagger: /vendas/swagger-ui.html
+Url: http://localhost:8083/swagger-ui/index.html#/
 
 
 ## 🛠️ Tecnologias Utilizadas
